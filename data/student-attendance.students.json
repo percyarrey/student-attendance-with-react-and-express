@@ -1,0 +1,180 @@
+[{
+  "_id": {
+    "$oid": "666b08253a3a8e03e56a2654"
+  },
+  "matricule": "CT21A102",
+  "name": "Michael Smith",
+  "level": 300,
+  "status": "Absent",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666b08253a3a8e03e56a2655"
+  },
+  "matricule": "CT21A103",
+  "name": "Emily Johnson",
+  "level": 450,
+  "status": "Present",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666b08253a3a8e03e56a2657"
+  },
+  "matricule": "CT21A105",
+  "name": "Sarah Davis",
+  "level": 200,
+  "status": "Absent",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666b08253a3a8e03e56a2658"
+  },
+  "matricule": "CT21A106",
+  "name": "Christopher Wilson",
+  "level": 300,
+  "status": "Present",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666b08253a3a8e03e56a2659"
+  },
+  "matricule": "CT21A107",
+  "name": "Olivia Anderson",
+  "level": 450,
+  "status": "Late",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666b08253a3a8e03e56a265a"
+  },
+  "matricule": "CT21A108",
+  "name": "Matthew Thompson",
+  "level": 100,
+  "status": "Absent",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666b08253a3a8e03e56a265b"
+  },
+  "matricule": "CT21A109",
+  "name": "Sophia Martinez",
+  "level": 200,
+  "status": "Present",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666b08253a3a8e03e56a265c"
+  },
+  "matricule": "CT21A110",
+  "name": "Daniel Hernandez",
+  "level": 300,
+  "status": "Late",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666b08253a3a8e03e56a265d"
+  },
+  "matricule": "CT21A111",
+  "name": "Isabella Gutierrez",
+  "level": 450,
+  "status": "Absent",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666b08253a3a8e03e56a265e"
+  },
+  "matricule": "CT21A112",
+  "name": "Jacob Ramirez",
+  "level": 100,
+  "status": "Present",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666b08253a3a8e03e56a265f"
+  },
+  "matricule": "CT21A113",
+  "name": "Ava Diaz",
+  "level": 200,
+  "status": "Late",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666b08253a3a8e03e56a2660"
+  },
+  "matricule": "CT21A114",
+  "name": "William Morales",
+  "level": 300,
+  "status": "Absent",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666b08253a3a8e03e56a2661"
+  },
+  "matricule": "CT21A115",
+  "name": "Mia Reyes",
+  "level": 450,
+  "status": "Present",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666b08253a3a8e03e56a2662"
+  },
+  "matricule": "CT21A116",
+  "name": "Alexander Flores",
+  "level": 100,
+  "status": "Late",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666b08253a3a8e03e56a2663"
+  },
+  "matricule": "CT21A117",
+  "name": "Emma Aguilar",
+  "level": 200,
+  "status": "Absent",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666b08253a3a8e03e56a2664"
+  },
+  "matricule": "CT21A118",
+  "name": "Benjamin Castillo",
+  "level": 300,
+  "status": "Present",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666b08253a3a8e03e56a2665"
+  },
+  "matricule": "CT21A119",
+  "name": "Abigail Herrera",
+  "level": 450,
+  "status": "Late",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666d5663cceb4b49347a6f83"
+  },
+  "matricule": "ct21",
+  "name": "mary",
+  "level": 200,
+  "status": "Present",
+  "__v": 0
+}]
