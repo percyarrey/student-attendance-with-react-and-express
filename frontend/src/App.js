@@ -68,9 +68,14 @@ function App() {
         console.log(response.data.message);
         // Remove the successfully deleted IDs from the deleteStudent array
         setDeleteStudent(deleteStudent.filter(id => !deleteStudent.includes(id)));
-        deleteStudent.forEach(id => {
-          setStudents(students.filter(e => e._id !== id))
-        })
+        if(students.length === deleteStudent.length){
+            setStudents([])
+        }
+        else{
+          deleteStudent.forEach(id => {
+            setStudents(students.filter(e => e._id !== id))
+          })
+        }
       })
       .catch(error => {
         console.error(error.response.data.message);
